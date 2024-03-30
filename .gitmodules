@@ -1,0 +1,3 @@
+[submodule "app/DJI_UE4_poc"]
+	path = app/DJI_UE4_poc
+	url = https://github.com/LiellPlane/DJI_UE4_poc.git
